@@ -1,0 +1,251 @@
+2019-02-11 19:02:40 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 19:02:55 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 19:02:58 [INFO ] [TestBase] - [after] 
+2019-02-11 19:02:58 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 19:03:01 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 19:03:04 [INFO ] [TestBase] - [after] 
+2019-02-11 21:11:20 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 21:11:34 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 21:11:54 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 21:11:54 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 21:11:54 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-11 21:11:54 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..LName1
+2019-02-11 21:11:54 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (0bb5cb3667433dfc4729849067ba1f39)] -> xpath: //input[@name="UserName"]]
+2019-02-11 21:11:54 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-11 21:11:54 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-11 21:11:55 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-11 21:11:55 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (0bb5cb3667433dfc4729849067ba1f39)] -> xpath: //input[@name="Email"]]
+2019-02-11 21:11:55 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-11 21:12:04 [INFO ] [TestBase] - [after] 
+2019-02-11 21:12:04 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 21:12:08 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 21:12:25 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 21:12:25 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 21:12:25 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName2
+2019-02-11 21:12:25 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..LName2
+2019-02-11 21:12:25 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (85d6df679f263ddda1b64795fdabaf9c)] -> xpath: //input[@name="UserName"]]
+2019-02-11 21:12:26 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-11 21:12:26 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-11 21:12:26 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..cutsomer@gmail.com
+2019-02-11 21:12:26 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (85d6df679f263ddda1b64795fdabaf9c)] -> xpath: //input[@name="Email"]]
+2019-02-11 21:12:27 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-11 21:12:35 [INFO ] [TestBase] - [after] 
+2019-02-11 21:22:12 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 21:22:20 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 21:22:47 [INFO ] [TestBase] - [after] 
+2019-02-11 21:22:47 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 21:22:50 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 21:30:15 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 21:31:57 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 21:32:50 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 21:34:00 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 21:34:13 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 21:34:28 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-11 21:34:28 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..LName1
+2019-02-11 21:34:28 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (e889e6b8a6c434aa5b7c53d8f5c2243a)] -> xpath: //input[@name="UserName"]]
+2019-02-11 21:34:28 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-11 21:34:28 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-11 21:34:29 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-11 21:34:29 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (e889e6b8a6c434aa5b7c53d8f5c2243a)] -> xpath: //input[@name="Email"]]
+2019-02-11 21:34:29 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-11 21:34:37 [INFO ] [TestBase] - [after] 
+2019-02-11 21:38:59 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 21:40:02 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 21:41:32 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 21:41:53 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 21:42:08 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-11 21:42:09 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..LName1
+2019-02-11 21:42:09 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (41dafbbedefb469d8861eee707bce936)] -> xpath: //input[@name="UserName"]]
+2019-02-11 21:42:09 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-11 21:42:09 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-11 21:42:10 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-11 21:42:10 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (41dafbbedefb469d8861eee707bce936)] -> xpath: //input[@name="Email"]]
+2019-02-11 21:42:10 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-11 22:20:09 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 22:20:27 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 22:20:47 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 22:20:47 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 22:20:47 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-11 22:20:47 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..LName1
+2019-02-11 22:20:47 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (5710f4e36f304c89b55ab09e7e609ac1)] -> xpath: //input[@name="UserName"]]
+2019-02-11 22:20:47 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-11 22:20:48 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-11 22:20:48 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-11 22:20:49 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (5710f4e36f304c89b55ab09e7e609ac1)] -> xpath: //input[@name="Email"]]
+2019-02-11 22:20:49 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-11 22:20:57 [INFO ] [TestBase] - [after] 
+2019-02-11 22:20:57 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 22:21:28 [INFO ] [TestBase] - [after] 
+2019-02-11 22:25:12 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 22:26:00 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 22:26:17 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 22:26:36 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 22:26:48 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 22:27:51 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-11 22:30:40 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..LName1
+2019-02-11 22:31:30 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (a7fe3e62494ab1716cbe0caed78eb004)] -> xpath: //input[@name="UserName"]]
+2019-02-11 22:32:41 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-11 22:32:58 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-11 22:33:11 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-11 22:33:32 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (a7fe3e62494ab1716cbe0caed78eb004)] -> xpath: //input[@name="Email"]]
+2019-02-11 22:33:32 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-11 22:33:41 [INFO ] [TestBase] - [after] 
+2019-02-11 22:33:41 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 22:42:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 22:51:40 [INFO ] [TestBase] - [after] 
+2019-02-11 22:51:40 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 22:52:11 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 22:52:25 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 22:53:10 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 22:54:10 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 22:54:20 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-11 23:04:33 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 23:04:38 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 23:04:42 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 23:04:42 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 23:04:43 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-11 23:04:43 [INFO ] [RegistrationPage] - [enterLastname] entering lastname..LName1
+2019-02-11 23:04:43 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (a963ab14fb3e5831bfc4abf44e06c9ca)] -> xpath: //input[@name="UserName"]]
+2019-02-11 23:04:43 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-11 23:04:44 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-11 23:04:44 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-11 23:04:45 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (a963ab14fb3e5831bfc4abf44e06c9ca)] -> xpath: //input[@name="Email"]]
+2019-02-11 23:04:45 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-11 23:04:53 [INFO ] [TestBase] - [after] 
+2019-02-11 23:04:53 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-11 23:04:57 [INFO ] [TestBase] - [before] Chrome
+2019-02-11 23:05:00 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-11 23:05:00 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-11 23:05:00 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName2
+2019-02-11 23:05:00 [INFO ] [RegistrationPage] - [enterLastname] entering lastname..LName2
+2019-02-11 23:05:01 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (d5a07ed50b4531c2b37ef8544e6a8117)] -> xpath: //input[@name="UserName"]]
+2019-02-11 23:05:01 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-11 23:05:01 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-11 23:05:01 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..cutsomer@gmail.com
+2019-02-11 23:05:01 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (d5a07ed50b4531c2b37ef8544e6a8117)] -> xpath: //input[@name="Email"]]
+2019-02-11 23:05:01 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-11 23:05:10 [INFO ] [TestBase] - [after] 
+2019-02-12 11:18:11 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 11:18:27 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 11:20:00 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 11:20:03 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 11:20:06 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 11:20:06 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 11:20:06 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-12 11:20:06 [INFO ] [RegistrationPage] - [enterLastname] entering lastname..LName1
+2019-02-12 11:20:07 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (c4f19df0517aa85da7a2951bd7c456bf)] -> xpath: //input[@name="UserName"]]
+2019-02-12 11:20:07 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-12 11:20:52 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 16:27:23 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 16:27:41 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 16:27:46 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 16:27:46 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 16:27:47 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName1
+2019-02-12 16:27:48 [INFO ] [RegistrationPage] - [enterLastname] entering lastname..LName1
+2019-02-12 16:27:49 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (9266b9508ace606cf1c787e243144cb1)] -> xpath: //input[@name="UserName"]]
+2019-02-12 16:27:49 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-12 16:27:57 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 16:29:54 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-12 16:29:54 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (9266b9508ace606cf1c787e243144cb1)] -> xpath: //input[@name="Email"]]
+2019-02-12 16:29:54 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-12 16:30:02 [INFO ] [TestBase] - [after] 
+2019-02-12 16:30:02 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 16:30:08 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 16:30:12 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 16:30:12 [INFO ] [RegistrationPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 16:30:12 [INFO ] [RegistrationPage] - [enterFirstName] entering firstName..FName2
+2019-02-12 16:30:12 [INFO ] [RegistrationPage] - [enterLastname] entering lastname..LName2
+2019-02-12 16:30:12 [INFO ] [RegistrationPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (ab556f82f0e4886fcbc34533a6fc0b4f)] -> xpath: //input[@name="UserName"]]
+2019-02-12 16:30:12 [INFO ] [RegistrationPage] - [enterPassword] entering password..Pass1
+2019-02-12 16:30:38 [INFO ] [RegistrationPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 16:31:07 [INFO ] [RegistrationPage] - [enterEmailAddress] entering emailAddress..cutsomer@gmail.com
+2019-02-12 16:31:08 [INFO ] [RegistrationPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (ab556f82f0e4886fcbc34533a6fc0b4f)] -> xpath: //input[@name="Email"]]
+2019-02-12 16:31:08 [INFO ] [RegistrationPage] - [clickOnSavebtn] Click on add user Link
+2019-02-12 16:31:16 [INFO ] [TestBase] - [after] 
+2019-02-12 16:46:45 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 16:46:57 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 16:47:02 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 16:47:02 [INFO ] [AddUserDetailsPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 16:47:02 [INFO ] [AddUserDetailsPage] - [enterFirstName] entering firstName..FName1
+2019-02-12 16:47:03 [INFO ] [AddUserDetailsPage] - [enterLastname] entering lastname..LName1
+2019-02-12 16:47:03 [INFO ] [AddUserDetailsPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (9a0a1b1bbc88780fc5e158d2c25433bd)] -> xpath: //input[@name="UserName"]]
+2019-02-12 16:47:03 [INFO ] [AddUserDetailsPage] - [enterPassword] entering password..Pass1
+2019-02-12 16:47:03 [INFO ] [AddUserDetailsPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 16:47:03 [INFO ] [AddUserDetailsPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-12 16:47:04 [INFO ] [AddUserDetailsPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (9a0a1b1bbc88780fc5e158d2c25433bd)] -> xpath: //input[@name="Email"]]
+2019-02-12 16:47:04 [INFO ] [AddUserDetailsPage] - [clickOnSavebtn] Click on add user Link
+2019-02-12 16:47:04 [INFO ] [TestBase] - [after] 
+2019-02-12 16:47:04 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 16:47:10 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 16:47:17 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 16:47:17 [INFO ] [AddUserDetailsPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 16:47:17 [INFO ] [AddUserDetailsPage] - [enterFirstName] entering firstName..FName2
+2019-02-12 16:47:17 [INFO ] [AddUserDetailsPage] - [enterLastname] entering lastname..LName2
+2019-02-12 16:47:17 [INFO ] [AddUserDetailsPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (b65498370e6582cb30a65958ded2c8e2)] -> xpath: //input[@name="UserName"]]
+2019-02-12 16:47:17 [INFO ] [AddUserDetailsPage] - [enterPassword] entering password..Pass2
+2019-02-12 16:47:17 [INFO ] [AddUserDetailsPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 16:47:18 [INFO ] [AddUserDetailsPage] - [enterEmailAddress] entering emailAddress..cutsomer@gmail.com
+2019-02-12 16:47:18 [INFO ] [AddUserDetailsPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (b65498370e6582cb30a65958ded2c8e2)] -> xpath: //input[@name="Email"]]
+2019-02-12 16:47:18 [INFO ] [AddUserDetailsPage] - [clickOnSavebtn] Click on add user Link
+2019-02-12 16:47:18 [INFO ] [TestBase] - [after] 
+2019-02-12 18:39:08 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 18:39:15 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 18:39:18 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 18:39:18 [INFO ] [AddUserDetailsPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 18:39:18 [INFO ] [AddUserDetailsPage] - [enterFirstName] entering firstName..FName1
+2019-02-12 18:39:18 [INFO ] [AddUserDetailsPage] - [enterLastname] entering lastname..LName1
+2019-02-12 18:39:18 [INFO ] [AddUserDetailsPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (50d33c12a19867abbfb19ff02b91a968)] -> xpath: //input[@name="UserName"]]
+2019-02-12 18:39:18 [INFO ] [AddUserDetailsPage] - [enterPassword] entering password..Pass1
+2019-02-12 18:39:18 [INFO ] [AddUserDetailsPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 18:39:19 [INFO ] [AddUserDetailsPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-12 18:39:19 [INFO ] [AddUserDetailsPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (50d33c12a19867abbfb19ff02b91a968)] -> xpath: //input[@name="Email"]]
+2019-02-12 18:39:19 [INFO ] [AddUserDetailsPage] - [clickOnSavebtn] Click on add user Link
+2019-02-12 18:39:19 [INFO ] [TestBase] - [after] 
+2019-02-12 18:39:19 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 18:39:22 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 18:39:26 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 18:39:26 [INFO ] [AddUserDetailsPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 18:39:26 [INFO ] [AddUserDetailsPage] - [enterFirstName] entering firstName..FName2
+2019-02-12 18:39:26 [INFO ] [AddUserDetailsPage] - [enterLastname] entering lastname..LName2
+2019-02-12 18:39:26 [INFO ] [AddUserDetailsPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (bb9373959755a8da09428fa68368e703)] -> xpath: //input[@name="UserName"]]
+2019-02-12 18:39:26 [INFO ] [AddUserDetailsPage] - [enterPassword] entering password..Pass2
+2019-02-12 18:39:26 [INFO ] [AddUserDetailsPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 18:39:26 [INFO ] [AddUserDetailsPage] - [enterEmailAddress] entering emailAddress..cutsomer@gmail.com
+2019-02-12 18:39:27 [INFO ] [AddUserDetailsPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (bb9373959755a8da09428fa68368e703)] -> xpath: //input[@name="Email"]]
+2019-02-12 18:39:27 [INFO ] [AddUserDetailsPage] - [clickOnSavebtn] Click on add user Link
+2019-02-12 18:39:27 [INFO ] [TestBase] - [after] 
+2019-02-12 21:38:21 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 21:38:27 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 21:38:29 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 21:38:29 [INFO ] [TestBase] - [after] 
+2019-02-12 21:38:29 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 21:38:33 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 21:38:37 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 21:38:37 [INFO ] [TestBase] - [after] 
+2019-02-12 21:39:46 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 21:40:05 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 21:40:10 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 21:40:12 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 21:40:12 [INFO ] [AddUserDetailsPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 21:40:12 [INFO ] [AddUserDetailsPage] - [enterFirstName] entering firstName..FName1
+2019-02-12 21:40:12 [INFO ] [AddUserDetailsPage] - [enterLastname] entering lastname..LName1
+2019-02-12 21:40:12 [INFO ] [AddUserDetailsPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (a9b15d8dfd403b2b2e1f271946918e12)] -> xpath: //input[@name="UserName"]]
+2019-02-12 21:40:13 [INFO ] [AddUserDetailsPage] - [enterPassword] entering password..Pass1
+2019-02-12 21:40:13 [INFO ] [AddUserDetailsPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 21:40:14 [INFO ] [AddUserDetailsPage] - [enterEmailAddress] entering emailAddress..admin@gmail.com
+2019-02-12 21:40:14 [INFO ] [AddUserDetailsPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (a9b15d8dfd403b2b2e1f271946918e12)] -> xpath: //input[@name="Email"]]
+2019-02-12 21:40:14 [INFO ] [AddUserDetailsPage] - [clickOnSavebtn] Click on add user Link
+2019-02-12 21:40:14 [INFO ] [TestBase] - [after] 
+2019-02-12 21:40:14 [INFO ] [TestBase] - [getBrowserObject] Chrome
+2019-02-12 21:40:20 [INFO ] [TestBase] - [before] Chrome
+2019-02-12 21:40:22 [INFO ] [WaitHelper] - [waitForElement] element found...Add User
+2019-02-12 21:40:22 [INFO ] [AddUserDetailsPage] - [clickOnAddUserLink] Click on add user Link
+2019-02-12 21:40:22 [INFO ] [AddUserDetailsPage] - [enterFirstName] entering firstName..FName2
+2019-02-12 21:40:22 [INFO ] [AddUserDetailsPage] - [enterLastname] entering lastname..LName2
+2019-02-12 21:40:22 [INFO ] [AddUserDetailsPage] - [enterUserName] entering userName..[[ChromeDriver: chrome on XP (739cd94ae4ee5188e41aeb93977f720c)] -> xpath: //input[@name="UserName"]]
+2019-02-12 21:40:22 [INFO ] [AddUserDetailsPage] - [enterPassword] entering password..Pass2
+2019-02-12 21:40:23 [INFO ] [AddUserDetailsPage] - [selectRadioButton] selecting mrs checkbox..
+2019-02-12 21:40:23 [INFO ] [AddUserDetailsPage] - [enterEmailAddress] entering emailAddress..cutsomer@gmail.com
+2019-02-12 21:40:23 [INFO ] [AddUserDetailsPage] - [enterMobileNo] entering emailAddress..[[ChromeDriver: chrome on XP (739cd94ae4ee5188e41aeb93977f720c)] -> xpath: //input[@name="Email"]]
+2019-02-12 21:40:23 [INFO ] [AddUserDetailsPage] - [clickOnSavebtn] Click on add user Link
+2019-02-12 21:40:23 [INFO ] [TestBase] - [after] 
