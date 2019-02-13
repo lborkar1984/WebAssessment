@@ -8,7 +8,7 @@ import java.io.InputStream;
 
 /**
  * 
- * @author bsingh5
+ * @author Lokesh Borkar
  *
  */
 public class ResourceHelper {
